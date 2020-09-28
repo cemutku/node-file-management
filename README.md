@@ -1,2 +1,3 @@
 # node-file-management
-nodejs file management examples
+
+- nodejs `fs` module asynchronous and synchronous file operation examples.
